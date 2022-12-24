@@ -17,7 +17,7 @@ ids = {'user1': [213, 213, 213, 15, 213],
        'user2': [54, 54, 119, 119, 119],
        'user3': [213, 98, 98, 35]}
 
-my_token = 'y0_AgAAAAA2DWi0AADLWwAAAADSbv5sysfF9A6MSj-r_BaPm0jCYjTXFjQ'
+my_token = ''
 
 stats = {'facebook': 55, 'yandex': 120, 'vk': 115, 'google': 99, 'email': 42, 'ok': 98}
 
